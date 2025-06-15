@@ -7,8 +7,6 @@
 This profile is a work in progress—more projects coming soon! Currently, it primarily showcases code from my hands-on learning journey.
 
 <!--
-**TDbuilds/TDbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tofrad&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tofrad&layout=compact&theme=dark&hide_border=true)
 
