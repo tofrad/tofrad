@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 #### Note
 This profile is a work in progress—more projects coming soon! Currently, it primarily showcases code from my hands-on learning journey.
 
